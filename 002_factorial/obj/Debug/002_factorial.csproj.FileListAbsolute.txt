@@ -1,0 +1,15 @@
+C:\Users\konyang\Downloads\Algorithm2024-main (1)\Algorithm2024-main\002_factorial\bin\Debug\002_factorial.exe.config
+C:\Users\konyang\Downloads\Algorithm2024-main (1)\Algorithm2024-main\002_factorial\bin\Debug\002_factorial.exe
+C:\Users\konyang\Downloads\Algorithm2024-main (1)\Algorithm2024-main\002_factorial\bin\Debug\002_factorial.pdb
+C:\Users\konyang\Downloads\Algorithm2024-main (1)\Algorithm2024-main\002_factorial\obj\Debug\002_factorial.csproj.AssemblyReference.cache
+C:\Users\konyang\Downloads\Algorithm2024-main (1)\Algorithm2024-main\002_factorial\obj\Debug\MainWindow.g.cs
+C:\Users\konyang\Downloads\Algorithm2024-main (1)\Algorithm2024-main\002_factorial\obj\Debug\App.g.cs
+C:\Users\konyang\Downloads\Algorithm2024-main (1)\Algorithm2024-main\002_factorial\obj\Debug\002_factorial_MarkupCompile.cache
+C:\Users\konyang\Downloads\Algorithm2024-main (1)\Algorithm2024-main\002_factorial\obj\Debug\002_factorial_MarkupCompile.lref
+C:\Users\konyang\Downloads\Algorithm2024-main (1)\Algorithm2024-main\002_factorial\obj\Debug\MainWindow.baml
+C:\Users\konyang\Downloads\Algorithm2024-main (1)\Algorithm2024-main\002_factorial\obj\Debug\002_factorial.g.resources
+C:\Users\konyang\Downloads\Algorithm2024-main (1)\Algorithm2024-main\002_factorial\obj\Debug\_002_factorial.Properties.Resources.resources
+C:\Users\konyang\Downloads\Algorithm2024-main (1)\Algorithm2024-main\002_factorial\obj\Debug\002_factorial.csproj.GenerateResource.cache
+C:\Users\konyang\Downloads\Algorithm2024-main (1)\Algorithm2024-main\002_factorial\obj\Debug\002_factorial.csproj.CoreCompileInputs.cache
+C:\Users\konyang\Downloads\Algorithm2024-main (1)\Algorithm2024-main\002_factorial\obj\Debug\002_factorial.exe
+C:\Users\konyang\Downloads\Algorithm2024-main (1)\Algorithm2024-main\002_factorial\obj\Debug\002_factorial.pdb
